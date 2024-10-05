@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010022305875",
+    "project_id": "chat-9a96e",
+    "storage_bucket": "chat-9a96e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010022305875:android:85a59a43958147f26cf6a6",
+        "android_client_info": {
+          "package_name": "com.a2zaPPaymanahmedchat.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQMJf0Rc-2Vaa2Dyz-BCtR3gCgwLTHQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
